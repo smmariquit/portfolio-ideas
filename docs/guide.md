@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Contribution Guidelines</h1>
-  This documentation contains a set of guidelines to help you during the contribution process of this project.
+ <h1>Contribution Guidelines</h1>
+ This documentation contains a set of guidelines to help you during the contribution process of this project.
 </div>
 <br>
 
@@ -14,8 +14,8 @@ Visit the [repository](https://github.com/evavic44/portfolio-ideas) on Github an
 
 The portfolio examples are enclosed between two comments:
 
-- `<! -- ⭐ PORTFOLIO START ⭐ -- >`
-- `<! -- ⭐ PORTFOLIO END ⭐ -- >`
+- `<!, ⭐ PORTFOLIO START ⭐, >`
+- `<!, ⭐ PORTFOLIO END ⭐, >`
 
 ![portfolio-comments.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1650538444320/u2D5Yjfpv.png)
 
@@ -50,7 +50,7 @@ Example:
 [victoreke.com](https://victoreke.com)
 ```
 
-<!-- ![live-url.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1650498090936/9SxKjCC54.gif) -->
+<!, ![live-url.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1650498090936/9SxKjCC54.gif), >
 
 ### ⚡Repo
 
